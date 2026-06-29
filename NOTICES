@@ -1,0 +1,59 @@
+stemma-bundles — third-party data acknowledgements
+====================================================
+
+The bundles in this repository are derived works compiled from the
+sources below. Each bundle inherits the share-alike obligations of
+its strongest-licensed contributor; see LICENSE.
+
+Wiktionary
+----------
+Every morphology bundle's `lemma` and `form` tables, plus every
+realization row in `linguistics-v3.db`, derives from kaikki.org's
+machine-readable Wiktionary extracts.
+
+  Source: https://kaikki.org/
+  Upstream: https://www.wiktionary.org/
+  License: CC BY-SA 4.0
+           https://creativecommons.org/licenses/by-sa/4.0/
+
+wordfreq
+--------
+Every morphology bundle's `freq_rank` column (except Latin) is
+assigned by sorting lemmas via Robyn Speer's wordfreq package, which
+itself draws on Wikipedia, OpenSubtitles, Twitter samples, Reddit,
+news crawls, and the Google Books Ngrams corpus.
+
+  Source: https://github.com/rspeer/wordfreq
+  License: MIT
+           https://github.com/rspeer/wordfreq/blob/master/LICENSE.txt
+
+Whitaker's WORDS
+----------------
+The Latin morphology bundle's `freq_rank` column derives from the
+8-tier frequency scale embedded in William Whitaker's Latin
+dictionary.
+
+  Source: https://mk270.github.io/whitakers-words/
+  License: Public domain
+
+CLTK / Morpheus (future)
+------------------------
+When the Ancient Greek bundle ships, it will derive from CLTK's
+Morpheus extracts.
+
+  Source: https://github.com/cltk/cltk
+  License: MIT
+           https://github.com/cltk/cltk/blob/master/LICENSE
+
+-------------------------------------------------------------------
+
+CC BY-SA 4.0 carries the only non-trivial constraint among these.
+Any redistribution of the bundle files or derived works must:
+
+  1. Credit the Wiktionary source ("Includes data derived from
+     Wiktionary, CC BY-SA 4.0").
+  2. Distribute derived works under CC BY-SA 4.0 or a
+     ShareAlike-compatible license.
+
+The other contributors' licenses (MIT, public domain) impose no
+additional obligations beyond standard notice preservation.

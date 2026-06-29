@@ -1,0 +1,12 @@
+The data bundles distributed via this repository are released under
+
+  Creative Commons Attribution-ShareAlike 4.0 International
+  https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+CC BY-SA 4.0 is required by the Wiktionary-derived contents in every
+bundle — see NOTICES for the full source attribution chain.
+
+This license applies to the .db files and the manifest.json
+distributed here. The Stemma application source code, the build
+scripts that produce these bundles, and the cognate-graph curator
+tooling are separate projects with their own licenses.
