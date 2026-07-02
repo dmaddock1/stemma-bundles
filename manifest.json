@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-30T22:12:31Z",
-  "releaseTag": "bundles-2026.06.30",
+  "generatedAt": "2026-07-02T01:59:54Z",
+  "releaseTag": "bundles-2026.07.01",
   "bundles": [
     {
       "kind": "linguistics",
@@ -23,9 +23,9 @@
       "kind": "morphology",
       "code": "ang",
       "version": 1,
-      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.06.30/morphology-ang-v1.db",
-      "sha256": "a57e2bf609b1fa68e823f43ba14b386b04eef988ff857cbcbb916bd00d22d29d",
-      "sizeBytes": 9555968
+      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.07.01/morphology-ang-v1.db",
+      "sha256": "fcaa7c8cfffb829a640eed7cd3de256aa0c411b0d6d035d29e84154eee65ec7e",
+      "sizeBytes": 19820544
     },
     {
       "kind": "morphology",
