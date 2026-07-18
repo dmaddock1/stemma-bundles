@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T01:59:54Z",
-  "releaseTag": "bundles-2026.07.01",
+  "generatedAt": "2026-07-18T13:21:00Z",
+  "releaseTag": "bundles-2026.07.18",
   "bundles": [
     {
       "kind": "linguistics",
       "code": null,
-      "version": 3,
-      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.06.27/linguistics-v3.db",
-      "sha256": "a2b5852b67c8e1e451fc37841bbba138e887700b468bcc745c63b19fc5350afa",
-      "sizeBytes": 10690560
+      "version": 4,
+      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.07.18/linguistics-v4.db",
+      "sha256": "2a401e7a065c1c20670d806a9d2c5a992971fd8a37a91f8bc1160925cc384754",
+      "sizeBytes": 15089664
     },
     {
       "kind": "morphology",
@@ -181,6 +181,14 @@
     },
     {
       "kind": "morphology",
+      "code": "fro",
+      "version": 1,
+      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.07.18/morphology-fro-v1.db",
+      "sha256": "e927ad3442a8a23aebd001750340db20bf7fd9ac955f7b725894831712c50a2a",
+      "sizeBytes": 7852032
+    },
+    {
+      "kind": "morphology",
       "code": "fur",
       "version": 1,
       "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.06.30/morphology-fur-v1.db",
@@ -213,11 +221,19 @@
     },
     {
       "kind": "morphology",
+      "code": "got",
+      "version": 1,
+      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.07.18/morphology-got-v1.db",
+      "sha256": "9960d93e0e99127b31678610003ddbb867f1639b2d1ddf50929d06471d8faf9c",
+      "sizeBytes": 12644352
+    },
+    {
+      "kind": "morphology",
       "code": "grc",
       "version": 1,
-      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.06.30/morphology-grc-v1.db",
-      "sha256": "e434b96d435f8568b801545b62b38c2aaae9855532ae8bbbbf7c6317e8417196",
-      "sizeBytes": 18821120
+      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.07.18/morphology-grc-v1.db",
+      "sha256": "cab74782af3e5f65a2f187d28c0df587e55c2627a07b8387142db60733190fe6",
+      "sizeBytes": 18837504
     },
     {
       "kind": "morphology",
@@ -287,9 +303,9 @@
       "kind": "morphology",
       "code": "is",
       "version": 1,
-      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.06.30/morphology-is-v1.db",
-      "sha256": "88dc32e6aab46ce0691f28b635b613a789529e0c1bec15de0d21e35349759a7f",
-      "sizeBytes": 4186112
+      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.07.18/morphology-is-v1.db",
+      "sha256": "548c9f83c12c48c8e51e9d468867488fa984033267257b31897214f269c6cc05",
+      "sizeBytes": 4325376
     },
     {
       "kind": "morphology",
@@ -327,9 +343,9 @@
       "kind": "morphology",
       "code": "la",
       "version": 1,
-      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.06.30/morphology-la-v1.db",
-      "sha256": "268e98473bf6132c9fbda1bcf40d8593dce3e4893a56b732ddc5782ccbaa0a28",
-      "sizeBytes": 10981376
+      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.07.18/morphology-la-v1.db",
+      "sha256": "8761e2818e56bd3726654c0a87481800d867b0b110b3943bdf6bfbeb8266b609",
+      "sizeBytes": 8216576
     },
     {
       "kind": "morphology",
