@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-18T13:21:00Z",
-  "releaseTag": "bundles-2026.07.18",
+  "generatedAt": "2026-07-20T20:35:47Z",
+  "releaseTag": "bundles-2026.07.20",
   "bundles": [
     {
       "kind": "linguistics",
       "code": null,
-      "version": 4,
-      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.07.18/linguistics-v4.db",
-      "sha256": "2a401e7a065c1c20670d806a9d2c5a992971fd8a37a91f8bc1160925cc384754",
-      "sizeBytes": 15089664
+      "version": 5,
+      "url": "https://github.com/dmaddock1/stemma-bundles/releases/download/bundles-2026.07.20/linguistics-v5.db",
+      "sha256": "56b983540be7b2e2f863c796618d16d33bb62111d89f27d41f730276dafa2fd4",
+      "sizeBytes": 16396288
     },
     {
       "kind": "morphology",
